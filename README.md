@@ -1,2 +1,2 @@
 # StroageEngine
-采用最简单的Key value形式实现一个存储引擎，逐步添加相应的功能
+采用最简单的Key value形式实现一个存储引擎，逐步添加相应的功能,目前的value不确定是采用磁盘的offset还是基于内存实现一个offset的value值
